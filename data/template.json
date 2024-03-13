@@ -1,0 +1,23 @@
+{
+    "id": "999999999",
+    "name": "Level Name",
+    "author": "Level Uploader",
+    "verifier": "Level Verifiere",
+    "desc": "Level Description",
+    "percentToQualify": "100",
+    "handcam": false,
+    "hacked": false,
+    "verificationVid": "Verification Video, youtube.com link",
+    "records": [
+        {
+            "percent": "100",
+            "link": "Completion Video Link",
+            "user": "Person 1"
+        },
+        {
+            "percent": "100",
+            "link": "Completion Video Link",
+            "user": "Person 2"
+        }
+    ]
+}
